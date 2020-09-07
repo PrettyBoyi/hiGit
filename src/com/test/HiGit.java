@@ -9,6 +9,5 @@ public class HiGit {
         System.out.println("Hello Git");
         System.out.println("test");
         System.out.println("啥也不是！！！！！！");
-
     }
 }
